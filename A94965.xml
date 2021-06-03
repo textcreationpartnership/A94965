@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True and perfect relation of the manner and proceeding, held by the sheriffe for the county of Berk: at Redding, upon the 20th. of Aug. last 1656. being the day upon which five knights to serve in Parliament for the said county, should have been elected. With some preceding passages. / Published by a eye-witnesse, and one who can produce many unquestionable oaths and testimonies for every particular therein contained.</title>
+         </titleStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94965</idno><idno type="EEBO-CITATION">99865659</idno>
+  <idno type="VID">117907</idno>
+  <idno type="EEBO-PROQUEST">2240942704</idno>
+  
+            <idno type="STC">Wing T2560</idno>
+            <idno type="STC">Thomason E891_8</idno>
+            <idno type="STC">ESTC R206515</idno>
+            <idno type="PROQUEST">99865659</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865659e"/>
+            <note>(EEBO-TCP ; phase 2, no. A94965)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117907)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 134:E891[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True and perfect relation of the manner and proceeding, held by the sheriffe for the county of Berk: at Redding, upon the 20th. of Aug. last 1656. being the day upon which five knights to serve in Parliament for the said county, should have been elected. With some preceding passages. / Published by a eye-witnesse, and one who can produce many unquestionable oaths and testimonies for every particular therein contained.</title>
+               </titleStmt>
+               <extent>[2], 11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London. :</pubPlace>
+                  <date>Printed 1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "8ber [i.e. October] 2d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  Elections --  Early works to 1800.</term>
+               <term type="topical_term">Elections --  England --  Early works to 1800.</term>
+               <term type="topical_term">Election officals --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117907:1"/>
+            <pb facs="tcp:117907:1"/>
+            <p>A True and Perfect RELATION OF The Manner and Proceeding, held by the Sheriffe for the County of <hi>Berk:</hi> at <hi>Redding,</hi> upon the 20th. of <hi>Aug.</hi> last 1656. being the Day upon which five Knights to serve in Parliament for the said County, should have been Elected.</p>
+            <p>
+               <hi>With some preceding Passages.</hi>
+            </p>
+            <p>Published by an Eye-Witnesse, and one who can pro<g ref="char:EOLhyphen"/>duce many Unquestionable Oaths and Testimonies for every particular therein contained.</p>
+            <p>
+               <hi>LONDON,</hi> Printed 1656.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:117907:2"/>
+            <pb n="1" facs="tcp:117907:2"/>
+            <head>A true and perfect relation of the manner and proceeding, held by the Sheriffe for the County of <hi>Berk:</hi> at <hi>Redding,</hi> upon the <hi>20.</hi> of <hi>Aug.</hi> last, <hi>1656.</hi> being the day upon which five Knights to serve in Parlia<g ref="char:EOLhyphen"/>ment, for the said County, should have been elected.</head>
+            <head>With some preceding passages</head>
+            <byline>Published by an Eye-Witnesse, and one who can produce many unquestionable Oaths and Testi<g ref="char:EOLhyphen"/>monies for every particular therein Con<g ref="char:EOLhyphen"/>tained.</byline>
+            <p>OF how near and sublime a Concernment the choise of Parliaments is unto this Nation, doth not require any farther proof then this, that it is (as things are yet Constituted) in the power of any such Assembly, (how strangely called, how ill qualified soever,) to assert, or to give up, in the pronouncing of one Syllable, the Lives, Liberties, &amp; Estates of this whole People: the Consideration of which did prevaile upon many of those, who from the begin<g ref="char:EOLhyphen"/>ning of our contest for Liberty, have adhered to the hon<g ref="char:EOLhyphen"/>est cause and party, in this County of <hi>Berks;</hi> to cast our
+<pb n="2" facs="tcp:117907:3"/>thoughts about, what persons were most likely to an<g ref="char:EOLhyphen"/>swer the great trust to be commited to them; as also the hungry expectations of our Freedome in this approaching Parliament and not having any in our eye whom we con<g ref="char:EOLhyphen"/>ceived better qualified for those end, or of greater interest in the affections of his Country men than Mr. <hi>Nevill</hi> whose Carriage in the Parliament of the Common-Wealth, was, for ought could be known, unblameable, to say no more, the relator to these passages was addvised, as soon as it was confessed that the Shrieffe had received his Writt, to send his servant up to <hi>London</hi> to the Gentel<g ref="char:EOLhyphen"/>man before mentioned, to intreat of him that he would offer himself for the Choice of his County for this trust: but he, being absent from the town, the messenger, not knowing where to learn news of him, returned without effecting any thing. To be short, the time growing neer for the Election and divers Caballs being held, throughout the County, by persons, whom wee con<g ref="char:EOLhyphen"/>ceive to have distinct interest, and affections from those publick ends, for which we had ingaged, and who (at that time) endeavoured to promote the Choice of per<g ref="char:EOLhyphen"/>sons little relating to our County, and who were to have a greater share in the receiving then in the paying of our money. We took that liberty (without further com<g ref="char:EOLhyphen"/>municating with Mr. <hi>Nevil,</hi>) to publish our design of endeavouring to have him chosen: which we had no sooner done, but we found in the people, so unexpected a joy and a lacrity and so unanimous an inclination to<g ref="char:EOLhyphen"/>wards him, that it far exceeded the measure of our hopes, and put immediately our adversaries (I mean the Soldiers, the corrupt and flattering Ministers, and other ingaged persons,) upon new Counsells; who leaving immediatly their list of Major Gen. Captains and Governours which (we are credibly informed) they had first framed (af<g ref="char:EOLhyphen"/>ter twice seeking the Lord by fasting and prayer, at <hi>Ildeslely</hi> first, and then at <hi>Newbury,</hi>) they united them<g ref="char:EOLhyphen"/>selves wholly in the list of Gentlemen of the County,
+<pb n="3" facs="tcp:117907:3"/>who are since returned by the Sheriffe. In which busi<g ref="char:EOLhyphen"/>nesse although we have many things to Complain of, as will appear by the following narration, yet we desire to be understood, that it is not our intention to cast the least reslexion much lesse aspersion upon any of those five gentlemen: they being some of them absent, and those present (for ought we could perceive) not par<g ref="char:EOLhyphen"/>taking, in the least, in the unjust proceedings of that day, most of them being persons unto whom we should pos<g ref="char:EOLhyphen"/>sibly all have given our Voices if they had been presented to us by any other way then a Combination or in oppositi<g ref="char:EOLhyphen"/>on to any other person then Mr. <hi>Nevill.</hi> But, to go on, we had no sooner notice of the premises, but we imme<g ref="char:EOLhyphen"/>diately, finding our strength sufficient to contest with them all united, dispatched an Expresse to Mr. <hi>Nevill,</hi> who was by this returned to <hi>London,</hi> acquainting him what we had done in this behalf, which he exceedingly disliked, and writ back to us, earnestly conjuring us not to enterrain any further thoughs of him in that businesse, alleaging divers reasons too long to be inserted here, in which we, not at all acquiescing, divers messages to and fro were produced in which he was very p<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>inely dealt with by this narrator, and others, it being told him that his obstinate refusall to appear de<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rous to serve his Coun<g ref="char:EOLhyphen"/>try in this season of danger would not onely argue want of courage and affection in him, and so make him be rejected in times of greater Clame and Safety, but must also even leave this whole County without a witnesse in the behalf of Liberty and the old cause it being plain, that the persons who framed this union to oppose him, were all visibly ingaged and hired in a new one, cle<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne Contrary thereunto; in which it seems they had beleef, (though we hope in vain) that tho<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Gentlemen would be serviceable unto them, or, at least, not so great opposers thereof as Mr <hi>Nevill</hi> was like to prove. These Considerations, at length, made him condiscend, although, not till the <hi>Saturday</hi> before the day ap<g ref="char:EOLhyphen"/>pointed
+<pb n="4" facs="tcp:117907:4"/>for Elections, at which time, he writ word to his Bayliffe to entertain the Company at <hi>Redding,</hi> for which, finding them like to be numerous, he was nessita<g ref="char:EOLhyphen"/>ted to take up seven Innes: notwithstanding all this, or any thing which could be alleaged, he did peremptorily refuse to be present in person at the Choise, till one of us, by advice of the rest, took post on <hi>Tuesday</hi> morning, the day immediately preceding the Choise, who finding him about noone in his lodging was so importu<g ref="char:EOLhyphen"/>nate with him that he resolved at last to go down that night to <hi>Maidenhead,</hi> and to appear the morning follow<g ref="char:EOLhyphen"/>ing at <hi>Rodding,</hi> which he did accordingly; in the midst of a Numerous Company of his Friends and Countrymen, although his late declaring, and later resolution to ap<g ref="char:EOLhyphen"/>peare, had lessen'd his party by some hundreds: amongst this Company, there was so considerable a number of the most godly, honest, and quiet Ministers of the County, and those so well affected towards the liberty of the Nation that it was reported that <hi>Captain Thornhill</hi> would exclude all Ministers from giving their voyces; which was onely given out (I suppose) to fright them, for that never any such thing was attempted by him. Mr. <hi>Neville</hi> was no sooner arrived, but we found their union a little shaking, by reason of the multitude of his party, and one Mr. <hi>Draper,</hi> a Gentleman of good ac<g ref="char:EOLhyphen"/>count in those parts, came to Sir <hi>John Thorowgood</hi> to pro<g ref="char:EOLhyphen"/>pose a Conjunction of Mr. <hi>Trumball</hi> with Mr. <hi>Nevills</hi> party, which he himself understanding, uttrely refused, and professed openly that he had rather never sit in Parliament, then be chosen by any, the least, shadow of a Combination, only he Voluntarily declared, at that same time, that neither he nor any with whom he could prevaile, should frame any opposition to Mr. <hi>Southby;</hi> as being one, who had faithfully served the interest of the Nation in the last Parliament: which resolution was accordingly observed by him, as will appear hereafter, his being the onely choice amongst the five which was
+<pb n="5" facs="tcp:117907:4"/>unquestionable. It was not till about eleaven of the Clock, that the Company could be gotten together below, and the Sherift with the rest of the Gentlemen, Soudiers and Ministers, upon the Scaffold, when the Writ being read, and Silence proclaimed, some from above cry'd for Mr. <hi>Trumball,</hi> and some for Mr. <hi>Nevill,</hi> which taking amongst the people, nothing was heard for some time, but those two names: at which the whole Assembly gave it for granted that they had been both chosen, and so com<g ref="char:EOLhyphen"/>pos'd themselves for the three remaining Elections, when the Sheriff ordered that those who were for Mr. <hi>Nevill</hi> should retire to the one side of the yard, and those of Mr. <hi>Trumballs</hi> party, to the other; which being done it was so easy to perceive which number was the greater, that I only apepal to Mr. <hi>Trumball</hi> himself, who being on horsebacke in the midst of his own friends, cryed out to them, I yeeld it, I yeeld it, Mr. <hi>Nevill</hi> hath it. Not<g ref="char:EOLhyphen"/>withstanding which, the Sheriff declar'd his judgment to the Contrary, and yet, the po<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e being demanded in the be<g ref="char:EOLhyphen"/>half of <hi>M. Neville,</hi> did not (sor that time) think fit to deny it, but ordered <hi>Mr. Nevills</hi> party to betake them<g ref="char:EOLhyphen"/>selves to the Church, &amp; that which followed <hi>Mr. Trumball</hi> to the Kings mead, and notwithstanding al the remon<g ref="char:EOLhyphen"/>strances which could be made unto him, of the ma<g ref="char:EOLhyphen"/>nifest injustice, the Church not being able to contain (at least without great inconvenience) the whole party, and also a desire exprest that <hi>Mr. Nevill's</hi> friends might with<g ref="char:EOLhyphen"/>draw into the Abbey-Court, and there be poled, he yet persisted in his obstinate partiality, and said Am not I judge here? go into the Church, or I declare Mr. <hi>Trumball</hi> chosen, which they were at length forced to accept; and in this Carriage we have these things further to Com<g ref="char:EOLhyphen"/>plain of.</p>
+            <p>First the whole Company, which were to go into the Church, were forced to stay half an hour before the keys could be gotten, and then but one door suffered
+<pb n="6" facs="tcp:117907:5"/>to be unlockt, the Sheriffe himself standing, as door-keeper to hinder that door, which was next to the place of Election, from being opened, till even the Gentlemen of the adverse party, were ashamed, and forced him away: by which time, at least four hundred, as neer as could be guessed, were gone to dinner, which afterwards were refused to be admitted when they returned. As also some seven score, which came from <hi>Sunning</hi> after the reading of the Writ.</p>
+            <p>Secondly, that after the Pole was began, a little door out of the Chancell was opened, at which every man was to go out, as he caused his name to be set down; but the Church was so hot, and the crowd so great that three were thrust out, for one name which could be taken, and every man thought himself happy when he could get out.</p>
+            <p>Thirdly, yet many names were torn by the Captain of the County Troop, after those who gave them were gone out, upon pretence, that the Sheriffe was absent at the taking thereof, being gone to keep the door; whereas the Sheriffe was not present, at the taking of one name for Mr. <hi>Trumball.</hi>
+            </p>
+            <p>Fourthly, that the Sheriffe, Captain <hi>Thornill,</hi> and di<g ref="char:EOLhyphen"/>vers of the Souldiers, did give insolent language, to some of the best Gentlemen of the County who stood for Mr. <hi>Nevill,</hi> with threatning speeches to some of them namely to Mr. <hi>Miller</hi> of <hi>Swallowfield</hi> and Mr. <hi>Angell</hi> of <hi>Binfield</hi> that they should be decimated, and the Sheriffe Strook one Mr. <hi>Bonlt</hi> of <hi>Warfield</hi> divers blows, with his staffe, for pressing into the Church, to give his voice.</p>
+            <p>Fifthly, that divers men were put by, under pretence that they were not worth two hundred pounds, most of
+<pb n="7" facs="tcp:117907:5"/>which had Estates visible amounting to at least a Thou<g ref="char:EOLhyphen"/>sand pounds &amp; few or none under five hundred, and those of Mr. <hi>Nevills</hi> party. Whereas on Mr. <hi>Trumballs,</hi> not ten were rejected for any thing could be alleaged against them, though very many justly excepted against.</p>
+            <p>Sixthly, that when Mr. <hi>Nevils</hi> Company was lockt into the Church; the Bell-man was sent about the town to warn in, by proclamation, all that would come to give their votes for Mr. <hi>Trumball.</hi> By these, and the like Arts, it came to passe that Mr. <hi>Nevils</hi> party which was clearly so much the greater, came but to amount to 580. and Mr. <hi>Trumbals</hi> made to swell to 800. upon which the Sheriffe declared that Mr. <hi>Trumball</hi> onely was elected, which caused a great murmuring in both parties, for that they did firmely believe that they had polled but for the first place. Mr. <hi>Trumbals</hi> party, which came out of the Forest, being as much for Mr. <hi>Nevil</hi> as they were for him, as they did afterwards manifest them<g ref="char:EOLhyphen"/>selves.</p>
+            <p>In the second place Mr. <hi>Southby</hi> was proposed, who had no opposition but all furtherance from Mr. <hi>Nevil,</hi> and although some of his party from below began to cry a <hi>Nevill,</hi> yet the pole not being demanded, we conceive its an unquestionable Choice.</p>
+            <p>In the third place Mr. <hi>Edward Duch</hi> being proposed, Mr. <hi>Nevils</hi> party cryed him up again, and he going down from the Scaffold amongst them, the Cryer made Proclamation, by command of the Sheriffe, that those who were for Mr. <hi>Nevil</hi> should (now) go into the mead, which being performed accordingly, it was then so visible that they carried full three quarters of the whole assembly with them; that the Souldiers, &amp; Ministers their assistants, had no other way left now but to be very instant with the Sheriffe to refuse the Pole, which he did, when
+<pb n="8" facs="tcp:117907:6"/>it was publikely demanded of him, in Mr. <hi>Nevills</hi> behalf, by Sir <hi>John Thorowgood</hi> and Mr. <hi>Draper,</hi> upon which refu<g ref="char:EOLhyphen"/>sall, he declared Mr. <hi>Edward Dunoh</hi> chosen, and immedi<g ref="char:EOLhyphen"/>ately whilest the whole party which divided with <hi>Mr. Nevill,</hi> was withdrawn at least a quarter of a mile off, to the further end of the Meadow, he proposed to the remaining electors, <hi>Mr. John Dunch</hi> and <hi>Mr. Hide,</hi> both in a breath, and having declared them chosen, before Proclamation could be made, Mr. <hi>Nevill</hi> rod out of the mead and came on Horseback, as near as he could to the Scaffold, and demanded the pole of Mr. <hi>Edward Dunch;</hi> the Sheriffe answered, he was already chosen, but that, if he would Pole against Mr. <hi>Hide,</hi> he should: supposing that (as it seemed in the case of Mr. <hi>Trumball</hi>) many of the Forrest men had been indif<g ref="char:EOLhyphen"/>ferent which had been chosen Mr. <hi>Hide</hi> or he; they be<g ref="char:EOLhyphen"/>ing all three inhabitants of the Division, and so hoping to have devided that party, which could not be in the Competition with Mr. <hi>Dunch,</hi> his interest lying in the Vale.</p>
+            <p>The Sheriffe, after he had made this proposall, rety<g ref="char:EOLhyphen"/>red back upon the Scaffold behind the Company and did no more shew his face that day; but the Souldiers prest upon the Scaffold, advised <hi>Mr. Nevill</hi> to pole with <hi>Mr. Hide,</hi> for that he was sure to carry it, (which was indeed visible.)</p>
+            <p>But he answered that he was not in so much necessity of being a Parliament man, as to attain it by so Sinister meanes as the dividing with one man, and the poling with another, and if he had been contented to be elect<g ref="char:EOLhyphen"/>ed by way of bargain, he needed not to have stood alone against the Souldiers, Ministers &amp; five of the most conside<g ref="char:EOLhyphen"/>rable Gentlemen of the County: he therefore demanded the pole of <hi>Mr. Edward Dunch,</hi> and intreated Captain <hi>Bifield</hi> to do him the curtesie to ask the Sheriffe his last
+<pb n="9" facs="tcp:117907:6"/>resolution, who accordingly withdrawing behind the Company, to him, returned immediately &amp; brought word that the Sheriffe, would give him no other answer, and at the same time, Proclamation was made, by the Cry<g ref="char:EOLhyphen"/>er, (the Sheriffe not appearing any more) that these three Gentlemen, <hi>viz.</hi> Mr. <hi>Edward Dunch,</hi> Mr. <hi>John Dunch,</hi> &amp; Mr. <hi>Hide</hi> were chosen, against which Mr. <hi>Nevill</hi> protested in the behalfe of his party, and the whole County, and took witnesse thereof. And really the whole remainder of the Assembly (though for Mr. <hi>Dunch</hi>) could not expresse a greater dislike then they did of the Car<g ref="char:EOLhyphen"/>riage of the Sheriffe, Soldiers, and turbulent Mini<g ref="char:EOLhyphen"/>sters.</p>
+            <p>Mr. <hi>Nevill,</hi> seeing no remedy, went back to the meadow acquainting the Electors that were withdrawn thither, how things went, they appointed four Gentle<g ref="char:EOLhyphen"/>men to take the number of them, as they passed over a foot bridge, and by Comparing this number with the pole in the morning or with the number which remained neer the Scaffold (in which we dare appeale to any un<g ref="char:EOLhyphen"/>biassed person of the adverse party) it will plainly ap<g ref="char:EOLhyphen"/>peare that three quartters of the whole number of Electors were withdrawn into the mead for Mr. <hi>Nevill,</hi> and that by proclamation of the Cryer: so that I believe it is a businesse resonably free from dispute, that three Elections, made after the Role was refused, and almost all the Company returned beyond apossibility of hearing, or seeing what was done, at the Scaffold, and so, from having vote in it, and that not of their own accord, but by order, as was said, must be void; and Contrary both to the lawes of the Land and fundamentall Constitution of Parliaments, and also to the Liberties of the whole Nation and People; To all which we all resolved to do right (as far as in us lies,) by petitioning the Parliament when it meets; and prosecuting the Sheriffe at the Law; in which we will not spare the utmost of our endeavour
+<pb n="10" facs="tcp:117907:7"/>that we may leave succeeding ages an example, and so deliver our posteritie, by the horror of it from the like oppression and injustice.</p>
+            <p>In the mean time we receive satisfaction in these two things; first that we have (by the blessing of God) dis<g ref="char:EOLhyphen"/>appointed the Souldiers list, and so (as much as in us lies) delivered this County from them, who would divide and chuse, both, and be their own carvers out of our Estates, for we are fully perswaded, that these five Gentle<g ref="char:EOLhyphen"/>men, who are returned, as well as the three which are not chosen (while they sit,) as the two which are, will exceed<g ref="char:EOLhyphen"/>ingly delude the expectation of those Souldiers and Mini<g ref="char:EOLhyphen"/>sters who hope that they shall support any Interest which shall set it self up against that of their Country, though othervvise possibly they may be well inclined tovvards Monarchy or a single person.</p>
+            <p>In the second place we do exceedingly blesse and magnifie the Lord, that he hath been pleased to give our County hearts to make so cleare a demonstation of their inclination to a Common wealth or Popular Covernment, as that this cause alone, though but supported by a youn<g ref="char:EOLhyphen"/>ger Brother, who never kept house, or lived scarce a month together in the County, should be able to Contend with the united Interest of five of the prime Gentlemen and house keepers, in the shire; together with that of all the Factious Ministers and their blinded followers, as also of all the Souldiers and other persons in present power, within the County; and yet to carry so clear and so undeniable an advantage in point of num<g ref="char:EOLhyphen"/>ber over all them.</p>
+            <p>This gives us firme hopes and Confidence that the good seed of Liberty sown in the field of this Nation and watered (as I may so say) with so much blood, will at length (and that suddenly,) Spring up, and soon overtop
+<pb n="11" facs="tcp:117907:7"/>those tares which are since sown, and that the day from on high shall visit us, that is, the Light and appearance of the Lord Jesus, whose power shall breake every Yoak, and who shall blast with the breath of his mouth all Ministers and Ministry, which claiming from man and not from him, joynes with the oppressive powers of the World, against him, and the people which he hath pur<g ref="char:EOLhyphen"/>chased and made free: It will be then, that we the poor, deluded, oppressed, Inhabitants of this land, being de<g ref="char:EOLhyphen"/>livered from the hand of our enemies and those who hate us, shall serve him without fear, in holinesse and righte<g ref="char:EOLhyphen"/>ousnesse before him, all the dayes of our life.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
